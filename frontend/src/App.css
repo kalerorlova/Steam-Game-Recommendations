@@ -5,8 +5,10 @@
 }
 
 button {
-  margin-top: 80vh;
+  bottom: 0vh;
+  position: fixed;
   background-color: ivory;
+  color: black;
   cursor: pointer;
 }
 
