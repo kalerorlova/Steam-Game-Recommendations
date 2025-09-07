@@ -43,7 +43,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: frontend/dist 
+          source: ./frontend/dist/ 
+          destination: ./_site
     #steps:
       #- name: Checkout
         #uses: actions/checkout@v4
