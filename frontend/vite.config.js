@@ -12,4 +12,5 @@ export default defineConfig({
     },
   },
   base: './',
+  //base: '/Steam-Game-Recommendations/',
 })
