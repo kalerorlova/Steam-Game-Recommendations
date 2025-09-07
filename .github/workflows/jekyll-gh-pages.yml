@@ -41,7 +41,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           source: ./frontend/dist/ 
-          destination: ./_site
 
   # Deployment job
   deploy:
