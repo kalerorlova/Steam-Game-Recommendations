@@ -5,7 +5,8 @@
 }
 
 button {
-  bottom: 0vh;
+  bottom: 10vh;
+  right: 5vh;
   position: fixed;
   background-color: ivory;
   color: black;
